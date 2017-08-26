@@ -14,7 +14,7 @@ import com.day.cq.wcm.api.Page;
 
 
 public class HeaderNavigation extends WCMUse {
-	
+	//commit to git
 	private static final Logger log= LoggerFactory.getLogger(HeaderNavigation.class);
 	public Map<String , List<String>> nav =new HashMap<String, List<String>>();
 	@Override
